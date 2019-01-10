@@ -1,6 +1,6 @@
 # Fearless-Flapdoodle-Monte-Carlo-Simulation
 
-This program uses random number generation to simulate the different
+	This program uses random number generation to simulate the different
 	directions that Fearless Flapdoodle takes at random on an 10 x 10 area island.
 	The island houses a spring to replenish his thirst, an airport to take him home,
 	a cannibal village, giving both Flapdoodle and his cannibal captors a "taste" of fear.
